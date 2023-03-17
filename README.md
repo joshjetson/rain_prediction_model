@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td>
-This is a predictive model that can predict, based on 9 years of collected data, if it is going to rain or not and roughly how much rain to expect. This model was built as part of a my final assignment for the IBM machine learning certificate. 
+This is a predictive model that can predict, based on 9 years of collected data, if it is going to rain or not and roughly how much rain to expect. This model was built as part of my final assignment for the IBM machine learning certificate. 
 </td>
 </tr>
 </table>
